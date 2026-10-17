@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Couples Wellness Set image placeholder</title><desc id="desc">Two abstract muted rose and sage product shapes on a warm cream background. Replace with actual set photos.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f2ece1"/><stop offset="1" stop-color="#ebddd5"/></linearGradient><linearGradient id="green" x2="1" y2="1"><stop stop-color="#9ab09d"/><stop offset="1" stop-color="#4d6c58"/></linearGradient><linearGradient id="rose" x2="0" y2="1"><stop stop-color="#d4b0a2"/><stop offset="1" stop-color="#a57568"/></linearGradient></defs>
+  <rect width="600" height="600" fill="url(#bg)"/><circle cx="473" cy="144" r="102" fill="#fffaf2" opacity=".7"/><ellipse cx="300" cy="491" rx="173" ry="25" fill="#514940" opacity=".1"/>
+  <g transform="rotate(-12 240 300)"><rect x="165" y="195" width="118" height="244" rx="59" fill="url(#green)"/><ellipse cx="224" cy="248" rx="33" ry="24" fill="#d4e0d2" opacity=".78"/><rect x="208" y="314" width="32" height="68" rx="16" fill="#e2e9df" opacity=".7"/></g>
+  <g transform="rotate(12 370 300)"><rect x="317" y="226" width="106" height="208" rx="53" fill="url(#rose)"/><path d="M318 263c-7-59 19-98 52-98s59 39 52 98c-25 22-79 22-104 0Z" fill="#ddc2b7"/><circle cx="370" cy="370" r="11" fill="#f2e5dc"/></g>
+  <text x="300" y="564" text-anchor="middle" fill="#6b5d51" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">PRODUCT PLACEHOLDER</text>
+</svg>

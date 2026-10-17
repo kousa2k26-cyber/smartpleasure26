@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Everyday Comfort Massager product image placeholder</title><desc id="desc">An abstract rounded sage product illustration on a sand background. Replace with a real product photo.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#eee9df"/><stop offset="1" stop-color="#e1e9e0"/></linearGradient><linearGradient id="item" x2="0" y2="1"><stop stop-color="#94ad9b"/><stop offset="1" stop-color="#557665"/></linearGradient></defs>
+  <rect width="600" height="600" fill="url(#bg)"/><circle cx="475" cy="173" r="116" fill="#fffaf2" opacity=".64"/><ellipse cx="298" cy="492" rx="145" ry="24" fill="#344b3e" opacity=".1"/>
+  <g transform="rotate(-9 300 300)"><path d="M229 210c0-54 32-92 71-92s71 38 71 92v197c0 39-32 70-71 70s-71-31-71-70V210Z" fill="url(#item)"/><rect x="260" y="210" width="80" height="115" rx="40" fill="#c4d2c5" opacity=".72"/><path d="M273 365h54" stroke="#e7eee6" stroke-width="11" stroke-linecap="round"/><circle cx="300" cy="414" r="10" fill="#e7d5ca"/></g>
+  <text x="300" y="564" text-anchor="middle" fill="#526a5c" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">PRODUCT PLACEHOLDER</text>
+</svg>

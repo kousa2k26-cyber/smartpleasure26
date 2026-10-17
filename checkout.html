@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Checkout | smartpleasure</title>
+  <meta name="description" content="Share your delivery details and send your smartpleasure order through WhatsApp. UPI details are provided as placeholders until configured.">
+  <meta property="og:type" content="website"><meta property="og:title" content="Checkout | smartpleasure"><meta property="og:description" content="Send your wellness essentials order through WhatsApp and review UPI payment details."><meta property="og:url" content="http://smartpleasure.shop/checkout.html"><meta property="og:image" content="http://smartpleasure.shop/images/hero-placeholder.svg"><meta property="og:image:alt" content="Abstract sage and warm sand placeholder artwork for the smartpleasure wellness store">
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="css/style.css">
+  <script defer src="js/products.js"></script><script defer src="js/main.js"></script>
+</head>
+<body>
+  <div class="announcement-bar"><span>Thoughtful wellness essentials for adults 18+</span><a href="shop.html">Browse the collection</a></div>
+  <header class="site-header"><a class="brand" href="index.html" aria-label="smartpleasure home">smartpleasure<span class="brand-dot">.</span></a><button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-navigation"><span></span><span></span><span></span></button><nav class="site-nav" id="site-navigation" aria-label="Main navigation"><a href="index.html">Home</a><a href="shop.html">Shop</a><a href="about.html">Our approach</a><a href="contact.html">Contact</a></nav><a class="header-cart" href="cart.html">Bag <span class="cart-count" data-cart-count>0</span></a></header>
+  <main class="section-wrap checkout-page">
+    <div class="page-intro page-intro-compact"><p class="eyebrow">Almost there</p><h1>Checkout.</h1><p>Send your order details to us on WhatsApp.</p></div>
+    <div class="checkout-empty" data-checkout-empty hidden><h2>Your bag is empty.</h2><p>Add an item before starting checkout.</p><a class="button button-primary" href="shop.html">Browse the collection</a></div>
+    <div class="checkout-layout" data-checkout-content>
+      <section class="checkout-card">
+        <h2>Your details</h2>
+        <p class="form-intro">We’ll open WhatsApp with your order details so you can review and send them.</p>
+        <form data-checkout-form>
+          <label for="customer-name">Full name</label><input id="customer-name" name="name" type="text" autocomplete="name" required>
+          <label for="customer-phone">Phone number</label><input id="customer-phone" name="phone" type="tel" inputmode="tel" autocomplete="tel" pattern="[0-9+() -]{10,18}" title="Enter a phone number with 10 to 15 digits" required>
+          <label for="customer-address">Delivery address</label><textarea id="customer-address" name="address" rows="4" autocomplete="street-address" required></textarea>
+          <button class="button button-primary button-wide" type="submit">Continue on WhatsApp</button>
+          <p class="form-note">Your order is not placed until you review and send the message in WhatsApp. Delivery charges and availability can be confirmed there.</p>
+          <p class="form-status" data-checkout-status aria-live="polite"></p>
+        </form>
+      </section>
+      <aside class="checkout-side">
+        <section class="checkout-card order-summary-card"><h2>Order summary</h2><div data-checkout-summary></div></section>
+        <section class="checkout-card upi-card">
+          <p class="eyebrow">UPI payment</p><h2>Pay with UPI</h2>
+          <p class="form-note">Replace the sample UPI ID and QR image with your own before accepting payments.</p>
+          <div class="upi-details"><div><span class="detail-label">UPI ID</span><strong data-upi-id>yourname@upi</strong></div><button class="text-button" type="button" data-copy-upi>Copy ID</button></div>
+          <img class="upi-qr" src="images/upi-qr-placeholder.svg" alt="Placeholder QR image that is not scannable; replace it with your real UPI payment QR code">
+          <button class="button button-outline button-wide" type="button" data-upi-pay>Open UPI app</button>
+        </section>
+      </aside>
+    </div>
+  </main>
+  <footer class="site-footer"><div class="section-wrap footer-main"><div class="footer-brand-block"><a class="brand footer-brand" href="index.html">smartpleasure<span class="brand-dot">.</span></a><p>Thoughtful wellness essentials for adults.</p><span class="adult-note">For adults 18 and over</span></div><div class="footer-links"><h2>Explore</h2><a href="shop.html">Shop all</a><a href="about.html">Our approach</a><a href="contact.html">Contact us</a></div><div class="footer-links"><h2>Get in touch</h2><a href="contact.html#whatsapp" data-whatsapp>WhatsApp support</a><a href="https://t.me/yourusername" data-telegram target="_blank" rel="noopener noreferrer">Telegram support</a><p>Questions are welcome on either channel.</p></div></div><div class="section-wrap footer-bottom"><span>© <span data-current-year></span> smartpleasure</span><span>Made for feeling at ease.</span></div></footer>
+  <a class="whatsapp-float" href="#" data-whatsapp aria-label="Chat with smartpleasure on WhatsApp"><span class="whatsapp-symbol" aria-hidden="true">◉</span><span>WhatsApp</span></a>
+</body>
+</html>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Gentle Wave pleasure device image placeholder</title><desc id="desc">Abstract muted rose and sage shapes representing a product-photo placeholder for an adult wellness device.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f1e6df"/><stop offset="1" stop-color="#e5e9df"/></linearGradient><linearGradient id="item" x2="1" y2="1"><stop stop-color="#d5b3a5"/><stop offset="1" stop-color="#9d7265"/></linearGradient></defs>
+  <rect width="600" height="600" fill="url(#bg)"/><circle cx="455" cy="135" r="112" fill="#fffaf2" opacity=".72"/><ellipse cx="300" cy="501" rx="142" ry="22" fill="#51433e" opacity=".1"/>
+  <g transform="rotate(-11 300 300)"><path d="M250 380c-6-97-39-179-24-240 11-45 40-73 74-73s64 28 74 73c15 61-18 143-24 240-3 51-25 87-50 87s-47-36-50-87Z" fill="url(#item)"/><ellipse cx="300" cy="172" rx="40" ry="29" fill="#ead8cf"/><rect x="279" y="264" width="42" height="84" rx="21" fill="#f1e5dd" opacity=".7"/></g>
+  <text x="300" y="564" text-anchor="middle" fill="#805b50" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">PRODUCT PLACEHOLDER</text>
+</svg>

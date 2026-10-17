@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-labelledby="title desc">
+  <title id="title">UPI QR code placeholder</title><desc id="desc">Decorative sample grid only. It is not a working payment QR code. Replace with your real UPI QR image before launch.</desc>
+  <rect width="300" height="300" fill="#fff"/>
+  <g fill="#2d4b3d">
+    <path d="M25 25h74v74H25zm13 13v48h48V38zm11 11h26v26H49zM201 25h74v74h-74zm13 13v48h48V38zm11 11h26v26h-26zM25 201h74v74H25zm13 13v48h48v-48zm11 11h26v26H49z"/>
+    <path d="M119 28h15v15h-15zm25 0h15v15h-15zm23 10h15v15h-15zm-45 20h15v15h-15zm30 0h15v15h-15zm30 0h15v15h-15zm-53 25h15v15h-15zm25 0h15v15h-15zm25 0h15v15h-15zm-55 30h15v15h-15zm23 10h15v15h-15zm33-8h15v15h-15zm31-8h15v15h-15zm-128 15h15v15h-15zm25 0h15v15h-15zm-73 20h15v15H50zm25 0h15v15H75zm40 0h15v15h-15zm25 0h15v15h-15zm25 0h15v15h-15zm25 0h15v15h-15zm25 0h15v15h-15zm25 0h15v15h-15zm-165 25h15v15H50zm30 0h15v15H80zm30 0h15v15h-15zm30 0h15v15h-15zm30 0h15v15h-15zm33 0h15v15h-15zm28 0h15v15h-15zm-126 25h15v15h-15zm25 0h15v15h-15zm25 0h15v15h-15zm25 0h15v15h-15zm25 0h15v15h-15zm25 0h15v15h-15zm25 0h15v15h-15zm-130 25h15v15h-15zm30 0h15v15h-15zm31 0h15v15h-15zm32 0h15v15h-15zm32 0h15v15h-15zm-128 25h15v15h-15zm30 0h15v15h-15zm32 0h15v15h-15zm32 0h15v15h-15zm32 0h15v15h-15z"/>
+  </g>
+  <rect x="67" y="122" width="166" height="56" rx="5" fill="#fff" stroke="#d8d8cf"/>
+  <text x="150" y="145" text-anchor="middle" fill="#426452" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">QR PLACEHOLDER</text>
+  <text x="150" y="162" text-anchor="middle" fill="#68766f" font-family="Arial,sans-serif" font-size="8">NOT A PAYMENT CODE</text>
+</svg>

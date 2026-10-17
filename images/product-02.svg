@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Gentle Pulse Massager product image placeholder</title><desc id="desc">Abstract muted rose and sage personal-care silhouette on a cream background. Replace with a real product photo.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f3e9e2"/><stop offset="1" stop-color="#e7e4d9"/><stop offset="1" stop-color="#e7e4d9"/></linearGradient><linearGradient id="item" x2="1" y2="1"><stop stop-color="#cc9e8e"/><stop offset="1" stop-color="#a56f60"/></linearGradient></defs>
+  <rect width="600" height="600" fill="url(#bg)"/><circle cx="128" cy="134" r="84" fill="#fffaf2" opacity=".72"/><ellipse cx="302" cy="501" rx="142" ry="22" fill="#5d554d" opacity=".1"/>
+  <g transform="rotate(16 300 300)"><rect x="246" y="222" width="108" height="222" rx="54" fill="url(#item)"/><path d="M244 259c-9-84 23-137 56-137s65 53 56 137c-28 27-84 27-112 0Z" fill="#d6b1a2"/><ellipse cx="300" cy="276" rx="29" ry="15" fill="#f3ded4" opacity=".75"/><circle cx="300" cy="382" r="12" fill="#f0ddd3"/></g>
+  <text x="300" y="564" text-anchor="middle" fill="#805b50" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">PRODUCT PLACEHOLDER</text>
+</svg>

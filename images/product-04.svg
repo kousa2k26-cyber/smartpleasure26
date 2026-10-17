@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Soft Wave Personal Massager product image placeholder</title><desc id="desc">An abstract soft sage and cream object illustration. Replace with the actual product photo.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e8ebe1"/><stop offset="1" stop-color="#f2e8df"/></linearGradient><linearGradient id="item" x2="1" y2="1"><stop stop-color="#9cb7a3"/><stop offset="1" stop-color="#4c6d5a"/></linearGradient></defs>
+  <rect width="600" height="600" fill="url(#bg)"/><circle cx="156" cy="153" r="94" fill="#fffaf2" opacity=".7"/><ellipse cx="299" cy="502" rx="136" ry="22" fill="#44564a" opacity=".1"/>
+  <g transform="rotate(13 300 300)"><path d="M256 430c-3-72-28-139-38-202-10-63 8-115 56-138 39-19 86-6 108 29 30 48 10 99-25 143-41 51-49 104-44 168 3 41-14 71-43 77-27 6-43-26-14-77Z" fill="url(#item)"/><circle cx="313" cy="161" r="29" fill="#c5d4c6" opacity=".8"/><path d="M280 358c20 12 45 12 65 0" fill="none" stroke="#dbe5da" stroke-width="10" stroke-linecap="round"/></g>
+  <text x="300" y="564" text-anchor="middle" fill="#526a5c" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">PRODUCT PLACEHOLDER</text>
+</svg>
